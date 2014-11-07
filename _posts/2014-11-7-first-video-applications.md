@@ -3,7 +3,7 @@ layout: post
 type: news
 title: "Data Science For Social Good 2014 Videos: Chapter 1"
 author: "DSSG"
-published: false
+published: true
 ---
 
 On Monday, applications will open for fellows, mentors, project managers, and project partners for Data Science for Social Good 2015. We'll publish more information about those categories and our plans for the program's third year then as well. For now, please enjoy the first of three videos on the 2014 fellowship filmed by <a href="http://www.scrappersfilmgroup.com/">Scrappers Film Group</a>. The first chapter highlights the core goals of DSSG and introduces some of the fellows and mentors who contributed hard work and expertise to help government and non-profit partners use their data more effectively and solve important problems.
