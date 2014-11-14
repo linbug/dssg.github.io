@@ -7,6 +7,8 @@ pic: "memphis-sign.jpg"
 
 <img src="/img/posts/memphis-team.png">
 
+[<a href="http://dssg.uchicago.edu/faq/">Apply today for DSSG 2015!</a>]
+
 Rapid growth, followed by a period of suburbanization and instability, ending with a gradual rebirth of the core: that’s the last hundred years in a nutshell for most American cities. But the recent wave of urban reinvestment has been uneven, especially since the financial meltdown of 2008. Some central city neighborhoods have rapidly revitalized, while others have continued to struggle with problems like foreclosures, crime, and joblessness. There are many complex and interrelated issues faced by such areas, but in the City of Memphis, a group of stakeholders has crystallized around one issue in particular: blighted properties.
 
 We define blight as distressed properties in need of structural or major cosmetic repairs in order to be brought up to the community’s standards. Blight is a symptom of economic malaise, but potentially a cause as well, since its presence sends negative signals to potential investors and residents. When you talk to community leaders in Memphis, it’s inevitably one of the first issues they raise. So what can be done about it, and what role can data play?
