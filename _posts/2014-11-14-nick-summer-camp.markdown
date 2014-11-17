@@ -1,0 +1,24 @@
+---
+layout: post
+title: "DSSG Reflections: A 'Summer Camp' With Impact"
+author: Nick Eng
+pic: "nick-post.jpg"
+---
+
+[<a href="http://dssg.uchicago.edu/faq/">Apply today for DSSG 2015!</a>]
+
+The Data Science for Social Good Summer Fellowship (DSSG) is like summer camp for adults. Summer camp like the youth programs where you met interesting people, came together to devote your time to a particular interest, and learned new things from each other. DSSG is a summer camp where the interesting people come from different intellectual backgrounds, where you come together to create something impactful, and you learn new things about applying data to real-world problems. Personally, as somebody who had been working in industry for the past few years, it was a refreshing change that allowed me to apply my existing skills to the social sector and sharpen up some new skills as well.
+
+DSSG is a fellowship that brings together teams of 3-4 data scientists and pairs them with a non-profit/government partner to work on a public policy/social good problem for 12 weeks. Projects during my fellowship year ranged from <a href="http://dssg.uchicago.edu/2014/07/11/world-bank-corruption.html">helping the World Bank identify which contract partners were engaging in corrupt practices</a>, <a href="http://dssg.uchicago.edu/2014/07/02/finding-earmarks.html">increasing government transparency by text-mining Congressional Bills to find earmarks</a>, and my project, <a href="http://dssg.uchicago.edu/2014/08/04/maternal-mortality-mexico.html">helping Mexico come up with new strategies to reduce maternal mortality</a>. 
+
+<img src="/img/posts/nick-presentation.jpg">
+
+The <a href="http://dssg.uchicago.edu/people/">fellows</a> are recently graduated undergraduates, current graduate students, and working professionals with substantive expertise in computer science, statistics, and public policy that all hope to apply their skills to enact change. And the leaders of the program — the <a href="http://dssg.uchicago.edu/people/#staff">staff</a> and <a href="http://dssg.uchicago.edu/people/#mentors">mentors</a> — are an inspiring group who have already been doing that for a number of years.
+
+I couldn’t have asked to work with a better group of 50+ individuals for 3 months. Although I concentrated in mathematics and statistics in college and have been working in the analytics space for a number of years, being around so many experts over the summer greatly expanded my knowledge of statistics and machine learning. I would learn not just from our daily conversations and regular project updates, but also from the various informal seminars that fellows would host on their topics of expertise. We had seminars on bagging and boosting algorithms, using advanced regression for feature selection, causal inference and econometrics, and even how to create your own backend data server for app development. These casual seminars were in addition to the formal talks we had from external speakers in the fields of public policy and machine learning. 
+
+<img src="/img/posts/nick-photo.jpg">
+
+There have been few times that I have felt so engaged by something I was working on. Getting paid to apply and test out innovative computational approaches is one thing; getting paid to do it while working with a major government partner such as <a href="http://en.presidencia.gob.mx/">the Office of the President of Mexico</a> to find ways to improve the lives of hundreds of at-risk mothers is a completely different – 10 times more awesome – ballgame. I had an amazing time learning about the public health issues in Mexico, the intricacies within the sector (how different types of insurance impact care, for example), and discussing how we could come up with solutions with my team of three other data scientists. There are few projects that I’ve worked on with the potential for so much impact, and our labor has already begun to bear some fruit—as a result of our work, the Mexican government engaged with a new <a href="http://www.unicef.org/mdg/maternal.html">UNICEF program to promote prenatal care to at-risk mothers</a>.
+
+For most of my professional career I’ve been searching for opportunities to apply my skills with data to the social sector. Amazingly, a simple Google search led me to a program that’s committed to doing just that—getting groups of really smart people together to enact change through data-informed decision making. I’ve found few other professional positions, programs, or other opportunities that so carefully meld critical thinking/problem solving, advanced analytics/statistics, learning, and making an impact. In my mind, this program is one of a kind.
