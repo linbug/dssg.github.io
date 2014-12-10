@@ -5,6 +5,7 @@ slug: cps
 img: cps.png
 website: ['http://www.cps.edu']
 project: Student Enrollment Prediction for Budget Allocation
+blog-post: http://dssg.uchicago.edu/2014/07/23/cps-enrollment-prediction.html
 ---
 
 Each spring, **Chicago Public Schools** allocates $1.8 billion to the hundreds of public schools in its system. To determine where to distribute that money, CPS must predict next year’s enrollment for each school months ahead of time, then adjust budgets two to three weeks into the school year when the actual enrollment numbers are set. Large discrepancies between projected enrollment and the real numbers lead to large adjustments in funding, which can disrupt teachers and students.
