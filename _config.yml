@@ -1,4 +1,4 @@
-server_port:  5000
+port:  5000
 # prose:
 # 	siteurl: "http://www.dssg.io"
 markdown: kramdown
