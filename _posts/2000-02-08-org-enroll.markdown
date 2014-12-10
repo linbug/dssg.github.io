@@ -5,6 +5,7 @@ slug: enroll
 img: [enroll.jpg, get-covered-illinois.jpg]
 website: ['http://www.enrollamerica.org/', 'http://getcoveredillinois.gov/']
 project: Targeting the Uninsured for Health Insurance Enrollment
+blog-post: http://dssg.uchicago.edu/2014/07/14/warm-calls-enroll.html
 ---
 
 During the first open enrollment period under the new Affordable Care Act (ACA), over 8 million people obtained health insurance. But an estimated 13.4% of Americans remain uninsured, including over 1 million residents of Illinois. **Enroll America** is a nonprofit organization focused on maximizing the number of Americans who are enrolled in and retain health coverage. **Get Covered Illinois** is the official health marketplace for Illinois and is the federal partner responsible for leading all ACA education, outreach and enrollment efforts statewide. In its first year, Get Covered Illinois and its over 200 statewide grant funded partners enrolled over half a million Illinoisans in the Health Marketplace and ACA Expanded Medicaid program. 

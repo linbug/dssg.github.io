@@ -5,6 +5,7 @@ slug: nfp
 img: nfp.jpg
 website: ['http://www.nursefamilypartnership.org/']
 project: Predicting Success in Mother-Child Interventions
+blog-post: http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html
 ---
 
 Young, low-income, first-time mothers and their babies often face dramatically increased risks to their health, education, and economic self-sufficiency. **Nurse-Family Partnership (NFP)**, a national nonprofit organization, intervenes by pairing these mothers with specially-trained, registered nurses. Expectant mothers receive regular home visits from pregnancy until the baby is two years old. The result: healthier pregnancies, more stable families, and better developmental outcomes for children.
